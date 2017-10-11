@@ -8,6 +8,6 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": {},
-    "siteurl": "https://learn.moodle.net/",
+    "siteurl": "http://www.infiniteinfosolution.com/MO/",
     "gcmpn": "learn-moodle-1159"
 }
